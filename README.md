@@ -1,5 +1,7 @@
 # Logitech-G29-G27-G25-USB-Pedal-Adapter
 
+Thanks to Marcin648 for helping with coding this thing
+
 This adapter will convert the 8-bit logitech pedals into 10-bit pedals, without changing the pots.
 Tested on G29, should also work for G27/G25.
 
@@ -12,3 +14,6 @@ It has two modes:
 To change the mode you need to press clutch and accelerator pedals at least 3/4 way for 10 seconds.
 
 Calibrating in windows can be difficult due to the two modes, i recommend tweaking it with DXTweak2.
+
+
+
