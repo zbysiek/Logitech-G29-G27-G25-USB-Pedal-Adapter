@@ -1,0 +1,1 @@
+# Logitech-G29-G27-G25-USB-Pedal-Adapter
