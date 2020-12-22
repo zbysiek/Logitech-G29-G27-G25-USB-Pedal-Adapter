@@ -1,6 +1,6 @@
 # Logitech-G29-G27-G25-USB-Pedal-Adapter
 
-Thanks to Marcin648 for helping with coding this thing
+**Thanks to [_Marcin648_](https://github.com/Marcin648) for helping with coding this thing**
 
 This adapter will convert the 8-bit logitech pedals into 10-bit pedals, without changing the pots.
 Tested on G29, should also work for G27/G25.
